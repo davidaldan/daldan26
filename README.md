@@ -29,7 +29,7 @@
 - API de Facebook
 - API de Google Maps
 
-### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
+### 📸 Mi perfil en Linkedin [mi Linkedin](https://www.linkedin.com/in/david-aldan-campos/)
 
 # Similar Projects
 There are many approaches to managing a resume or CV in git,
