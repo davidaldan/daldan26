@@ -32,11 +32,6 @@
 ### 📸 Mi perfil en Linkedin [mi Linkedin](https://www.linkedin.com/in/david-aldan-campos/)
 
 # Similar Projects
-There are many approaches to managing a resume or CV in git,
-and this project uses unique Markdown and LaTeX templates.
-The following list shows a short sampling of projects,
-and I'm happy to merge pull requests of other projects.
-
 
 Name | Description
 ----|----|----
